@@ -6,7 +6,6 @@
 
 ![Database Schema](/AirBnB-Schema.png)
 
-
 ## API Documentation
 
 ## USER AUTHENTICATION/AUTHORIZATION
